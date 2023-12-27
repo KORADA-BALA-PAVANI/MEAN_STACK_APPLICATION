@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300;400&display=swap');
+.imgpad{
+    padding-left: 310px;
+    padding-top: 60px;
+}
+.imgtex{
+    padding-left: 65px;
+    font-weight: bolder;
+    font-size: larger;
+    padding-top: 50px;
+}
+.bgc{
+    background-color: orangered;
+    height: 40px;
+    }
+.padingt{
+    padding-top: 110px;
+    padding-left: 0px;
+}
+.colorr{
+    color: orangered;
+    font-weight: bold;
+    font-size: 32px;
+}
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.name2{
+    font-family:serif;
+}
+.bg1{
+    background-image: url('../../assets/images/pic2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1530px;
+    height:500px;
+}
+#title{
+    color: crimson;
+    font-size: 50px;
+   margin-left: 60px;
+   font-family: 'Lugrasimo', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Satisfy', cursive;
+}
+#title1{
+    color: white;
+    font-size: 60px;
+    margin-left: 45px;
+}
+.in{
+    width: 300px;
+    height: 30px;
+    padding-bottom: 8px;
+}
+.s{
+    width: 120px;
+    height: 35px;
+}
+.cont{
+    margin-top: 130px;
+}
+.but{
+    margin-left: 45px;
+}
+.r1{
+    background-color: black;
+    color:white;
+    width: 100%;
+}
+.pp{
+    color:white;
+    padding-left: 1300px;
+    margin-top: -18px;
+    width: 100%;
+}
+.n{
+    padding-left: 60px;
+    margin-top: 5px;
+}
+.bgcolor{
+    background-color:aquamarine;
+}
+
+.name{
+    color: crimson;
+    font-weight: bolder;
+    font-size:xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.menu{
+   float:left;
+   color: white;
+}
+.menu a{
+    color: black;
+    text-decoration: none;
+    margin-left: 25px;
+}
+.menu a:hover{
+    color: white;
+    background-color:crimson;
+    font-size: larger;
+}
+.btncolor{
+    color: crimson;
+    background-color: crimson;
+}
+.paddingtb1{
+    padding-top: 25px;
+    padding-bottom: 18px;
+    
+}
+.paddingtb2{
+    padding-top: 30px;
+    padding-bottom: 18px;
+}
+
+.aa{
+    text-decoration: none;
+    color: crimson;
+}
+.imgpad{
+    padding-left: 310px;
+    padding-top: 60px;
+}
+.imgtex{
+    padding-left: 65px;
+    font-weight: bolder;
+    font-size: larger;
+    padding-top: 50px;
+}
+.bgc{
+    background-color: orangered;
+    height: 40px;
+    }
+.padingt{
+    padding-top: 110px;
+    padding-left: 0px;
+}
+.colorr{
+    color: orangered;
+    font-weight: bold;
+    font-size: 32px;
+}
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.name2{
+    font-family:serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lugrasimo&family=Pacifico&family=Roboto+Condensed&family=Satisfy&display=swap');
+.tit{
+font-family: 'Bree Serif', serif;
+font-family: 'Lugrasimo', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Satisfy', cursive;
+padding-left: 30px;
+margin-top: -20px;
+}
+.tr{
+    text-align: center;
+}
+
+.img1-auto {
+    overflow: auto !important;
+  }
+  
+  .img1-hidden {
+    overflow: hidden !important;
+  }
+  
+
+.magnify .magnify-text {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    bottom: 0px;
+    left: 0;
+    border-bottom: 5px solid #FF4800;
+    transition: .5s;
+  }
+  
+  .magnify:hover .magnify-text {
+    bottom: 100px;
+  }
+  
+  .magnify .magnify-social {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    bottom: -100px;
+    left: 0;
+    transition: .5s;
+  }
+  
+  .magnify:hover .magnify-social {
+    bottom: 0;
+  }
+  
+  .ct1{
+    background-color:#FF4800;
+    padding: 0%;
+  }
+  .text_center{
+    text-align: center;
+    padding-left: 10px;
+    font-family: 'Handjet', cursive;
+  }
+  .img{
+    border-radius: 50%;
+    height: 50px;
+    width: 80px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.ct{
+    margin-top: -40px;
+    margin-left: 50px;
+    
+
+}
+.img:hover{
+    width:70px;
+    height:80px;
+}
+#bp{
+    padding: 10px;
+}
